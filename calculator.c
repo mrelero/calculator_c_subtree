@@ -40,7 +40,9 @@ int main(void) {
          scanf_s("%d", &iNumber1);
          printf("Digite Numero 2:\n");
          scanf_s("%d", &iNumber2);
-         printf("Soma igual: %d \n", OPR_iSoma(iNumber1, iNumber2));
+         printf("Digite Numero 3:\n");
+         scanf_s("%d", &iNumber3);
+         printf("Soma igual: %d \n", OPR_iSoma(iNumber1, iNumber2, iNumber3));
          break;
       case PRODUTO:
 

@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-extern int OPR_iSoma(int iNum1, int iNum2);
+extern int OPR_iSoma(int iNum1, int iNum2, int iNum3);
 
 extern int OPR_iProduto(int iNum1, int iNum2);
 
