@@ -69,3 +69,8 @@ extern long OPR_l10Exp(int iExp){
 extern int OPR_iCube(int iNumber){
    return iNumber * iNumber * iNumber;
 }
+
+extern int OPR_i2x(int iNumber){
+   
+   return 2 * iNumber;
+}

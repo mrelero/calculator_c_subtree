@@ -23,6 +23,8 @@ extern float OPR_fDiv(float fDenominador, float fDividendo);
 extern long OPR_l10Exp(int iExp);
 
 extern int OPR_iCube(int iNumber);
+
+extern int OPR_i2x(int iNumber);
 #endif /* _CRT_SEC_INCLUDED_ */
 
 
