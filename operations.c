@@ -64,3 +64,8 @@ extern long OPR_l10Exp(int iExp){
    }
    return lAux;
 }
+
+
+extern int OPR_iCube(int iNumber){
+   return iNumber * iNumber * iNumber;
+}
